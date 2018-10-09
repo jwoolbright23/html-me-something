@@ -1,10 +1,16 @@
 body {
-    background-color: grey;
+    background-color: gray;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
+
 
 h1{
     color: blue;
     text-align: center;
+    font-size: 55px;
 }
 p{
     font-family: Arial;
@@ -16,4 +22,13 @@ h2{
     color: dodgerblue;
     text-align: inherit;
     font-size: 30px;
+}
+ul{
+    font-size: 28px;
+}
+p.fontstyle{
+    font-family: 'Gill Sans'
+}
+#colors{
+    background-color: aquamarine
 }
