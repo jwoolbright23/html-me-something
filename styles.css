@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    font-family: Arial;
+    font-size: 25px;
+    color: darkorange;
+}
+h2{
+    font-family: 'Franklin Gothic Medium';
+    color: dodgerblue;
+    text-align: inherit;
+    font-size: 30px;
+}
