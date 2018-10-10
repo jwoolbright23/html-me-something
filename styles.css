@@ -5,6 +5,10 @@ body {
     padding-bottom: 50px;
     padding-left: 80px;
 }
+figcaption{
+    color: aquamarine;
+    font-family: 'Lucida Sans';
+}
 
 
 h1{
