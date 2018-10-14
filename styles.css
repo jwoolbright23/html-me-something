@@ -17,6 +17,10 @@ h1{
     font-size: 55px;
 }
 p{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 75px;
+    margin-left: 40px;
     font-family: Arial;
     font-size: 25px;
     color: darkorange;
@@ -35,4 +39,7 @@ p.fontstyle{
 }
 #colors{
     background-color: aquamarine
+}
+#shadow {
+    box-shadow: 5px 5px dodgerblue, 10px 10px darkorange, 15px 15px aquamarine;
 }
